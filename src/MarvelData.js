@@ -2,8 +2,8 @@ export const characters = [
   // Iron Man
   {
     name: "Tony Stark",
-    alias: "Iron Man",
-    img1: "https://www.specfictionshop.com/cdn/shop/products/315455127_2253071438203857_6311282012262232749_n_2000x.jpg?v=1669836598",
+    alias: "Iphone X",
+    img1: "https://www.theiphonewiki.com/w/images/thumb/c/cd/IPhone_X.png/150px-IPhone_X.png",
     homeworld: "Earth",
     abilities: [
       "Genius-level intellect",
@@ -16,20 +16,20 @@ export const characters = [
   },
   {
     name: "Pepper Potts",
-    alias: "Rescue",
+    alias: "Iphone XR",
     abilities: ["Powered armor suit", "Advanced technology skills"],
     team: "Avengers",
-    img1: "https://i.pinimg.com/originals/5e/fe/55/5efe55d2a7785a311511736a1a37bcbb.jpg",
+    img1: "https://www.theiphonewiki.com/w/images/thumb/5/5f/IPhone_XR.jpg/150px-IPhone_XR.jpg",
     homeworld: "Earth",
     description:
       "Pepper Potts, the formidable Rescue, is an accomplished businesswoman and technological genius. She dons a powered armor suit equipped with an array of advanced technology and weaponry, allowing her to stand alongside the Avengers in the battle against supervillains and global threats. Pepper is a determined and fearless heroine with an unwavering commitment to justice.",
   },
   {
     name: "James 'Rhodey' Rhodes",
-    alias: "War Machine",
+    alias: "Iphone XS",
     abilities: ["Powered armor suit", "Military expertise"],
     team: "Avengers",
-    img1: "https://i.pinimg.com/474x/ec/3f/4f/ec3f4f8053892365046fc6cd2f7955eb.jpg",
+    img1: "https://www.theiphonewiki.com/w/images/thumb/4/4e/IPhone_XS.jpg/150px-IPhone_XS.jpg",
     homeworld: "Earth",
 
     description:
@@ -37,10 +37,10 @@ export const characters = [
   },
   {
     name: "Riri Williams",
-    alias: "Ironheart",
+    alias: "Iphone Xmax",
     abilities: ["Powered armor suit", "Genius-level intellect"],
     team: "Young Avengers",
-    img1: "https://i.pinimg.com/736x/e3/02/9b/e3029b056f1deaf2011d72d0bce0bafa.jpg",
+    img1: "https://www.theiphonewiki.com/w/images/thumb/3/37/IPhone_XS_Max.jpg/200px-IPhone_XS_Max.jpg",
     homeworld: "Earth",
 
     description:
@@ -49,47 +49,14 @@ export const characters = [
 
   // Spider-Man
   {
-    name: "Miles Morales",
-    alias: "Spider-Man",
+    alias: "iphone XR",
     abilities: ["Bio-electrokinesis", "Wall-crawling"],
     team: "Champions",
-    img1: "https://w0.peakpx.com/wallpaper/15/497/HD-wallpaper-marvel-spider-man-marvel-spider-man-game-games.jpg",
+    img1: "https://www.theiphonewiki.com/w/images/thumb/0/0b/IPhone1%2C1.png/150px-IPhone1%2C1.png",
     homeworld: "Earth",
     img3: "url_to_img3_for_Natasha_Stark",
     description:
       "Miles Morales, the teenage Spider-Man, has bio-electrokinesis powers, in addition to wall-crawling abilities. As a member of the Champions, Miles embodies the spirit of the Spider-Man legacy, fighting for equality and justice in the Marvel Universe while navigating the challenges of being a young hero.",
-  },
-
-  {
-    name: "Cindy Moon",
-    alias: "Silk",
-    abilities: ["Web-shooting", "Superhuman agility"],
-    team: "Agents of Atlas",
-    img1: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2015_53/894026/silk_1_cover.jpg",
-    homeworld: "Earth",
-    description:
-      "Cindy Moon, codenamed Silk, is a skilled hero with the power of web-shooting and remarkable superhuman agility. She is an essential member of the Agents of Atlas, using her arachnid-like abilities to combat threats and safeguard the world.",
-  },
-
-  {
-    name: "Steve Rogers",
-    alias: "Captain America",
-    abilities: ["Peak human strength", "Vibranium shield"],
-    team: "Avengers",
-    img1: "https://w0.peakpx.com/wallpaper/223/397/HD-wallpaper-captain-america-avengers-endgame-captain-america-marvel-marvel-comics-marvel-superheroes-superheroes.jpg",
-    homeworld: "Earth",
-    description:
-      "Steve Rogers, Captain America, is the embodiment of honor and virtue. Enhanced with peak human strength and wielding a Vibranium shield, he stands as a symbol of justice and resilience. Steve's unwavering commitment to the ideals of heroism makes him a cornerstone of the Avengers and the Marvel Universe.",
-  },
-  {
-    name: "Sam Wilson",
-    alias: "Falcon",
-    abilities: ["Wingsuit", "Telepathic link with birds"],
-    team: "Avengers",
-    img1: "https://i.pinimg.com/736x/0e/be/ed/0ebeed0c9d6578732a07ca98fee71e22.jpg",
-    homeworld: "Earth",
-    description:
-      "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
   },
 ];
 
